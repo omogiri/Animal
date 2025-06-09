@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.latihan_praktikum_9.presentation.ui.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/nav_konten"
+        android:name="com.example.latihan_praktikum_9.presentation.ui.KontenFragment"
+        android:label="Konten" />
+
+    <fragment
+        android:id="@+id/nav_favorit"
+        android:name="com.example.latihan_praktikum_9.presentation.ui.FavoritFragment"
+        android:label="Favorit" />
+
+    <fragment
+        android:id="@+id/nav_setting"
+        android:name="com.example.latihan_praktikum_9.presentation.ui.SettingFragment"
+        android:label="Setting" />
+</navigation>
