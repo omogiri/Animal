@@ -55,3 +55,37 @@ Halaman ini memungkinkan admin untuk mengelola data pengguna:
 - Dark Mode Friendly UI
 
 ---
+
+## Tampilan Aplikasi
+
+### 1. Login
+<p align="center">
+  <img src="login.png" width="200"/>
+</p>
+
+### 2. Register
+<p align="center">
+  <img src="register.png" width="200"/>
+</p>
+
+### 3. Menu Home
+<p align="center">
+  <img src="home.png" width="200"/>
+</p>
+
+### 4. Menu Konten
+<p align="center">
+  <img src="konten.png" width="200"/>
+</p>
+
+### 5. Menu Favorit
+<p align="center">
+  <img src="favorit.png" width="200"/>
+</p>
+
+### 6. Menu Setting
+<p align="center">
+  <img src="setting.png" width="200"/>
+</p>
+
+---
